@@ -32,6 +32,7 @@ A curated list of resources for self-supervised pre-trained models (PTM), especi
 * ##### 1. [TextFooler：Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932)
 * ##### 2. [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 * ##### 3. [Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)
+* ##### 4. [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984)
 
 ### 防御方法 (Defend Method)
 
